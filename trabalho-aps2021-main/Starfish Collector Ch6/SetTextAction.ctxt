@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SetTextAction
+comment0.text=\r\n\ \ Designed\ for\ use\ in\ concert\ with\ \r\n\ \ \ \ \ \ the\ DialogBox,\ SceneSegment,\ and\ Scene\ classes.\r\n
+comment1.params=s
+comment1.target=SetTextAction(java.lang.String)
+comment2.params=dt
+comment2.target=boolean\ act(float)
+numComments=3
